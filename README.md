@@ -1,6 +1,6 @@
 # DA-Project-private
 
-This repository contains all the files done as for a project as a part of the course for Data Analytics - UE19CS312 in PES University.
+This repository contains all the files done for a project as a part of the course for Data Analytics - UE19CS312 in PES University.
 The team members include:
 1. [Harshavardhan V N](https://github.com/ausdauerer)
 2. [Hanuraag Baskaran](https://github.com/HanuraagBaskaran)
