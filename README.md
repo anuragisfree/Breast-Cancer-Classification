@@ -1,5 +1,4 @@
-# DA-Project-private
-
+# 44_Pirates_of_the_Databbean-DAProject
 This repository contains all the files done for a project as a part of the course for Data Analytics-UE19CS312 in PES University.
 The team members include:
 1. [Harshavardhan V N](https://github.com/ausdauerer)
